@@ -1,7 +1,13 @@
-### Hi there 👋
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=erik1201)](https://solved.ac/erik1201)
+## <img src="https://github.com/DDididingding/DDididingding/assets/68099714/741e38e2-5977-445e-ae65-035a4c151bd3" width="18" height="18"/> Alloy's GitHub
+<br/>
+<hr/>
+<p align="center">
+  🎉
+<img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=erik1201"/>
+<img src="http://mazandi.herokuapp.com/api?handle=erik1201&theme=cold"/>
+  🎉
+</p>
+<hr/>
 
 <!--
 **DDididingding/DDididingding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
