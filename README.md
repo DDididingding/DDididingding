@@ -2,10 +2,11 @@
 <br/>
 <hr/>
 <p align="center">
-  🎉
+  
 <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=erik1201"/>
+  &nbsp; &nbsp;
 <img src="http://mazandi.herokuapp.com/api?handle=erik1201&theme=cold"/>
-  🎉
+  
 </p>
 <hr/>
 
